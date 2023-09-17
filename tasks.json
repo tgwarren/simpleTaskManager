@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Capstone Presentation",
+        "description": "Need to work on my presentation for capstone.",
+        "status": "not completed"
+    },
+    {
+        "title": "Summaries for Chapter 3 and 4",
+        "description": "need to write about three items in chapter 3 and 4.",
+        "status": "not completed"
+    },
+    {
+        "title": "Prepare for camporee",
+        "description": "Need to get ready to teach at camporee for next weekend.",
+        "status": "not completed"
+    },
+    {
+        "title": "Turn in final proposal tonight.",
+        "description": "Proposal for backend class for final no rubric available for final.",
+        "status": "completed"
+    },
+    {
+        "title": "Meet with friend.",
+        "description": "Take friend shopping for fabric so we can make her travel things.",
+        "status": "completed"
+    },
+    {
+        "title": "Reply to classmates on yellowdig.",
+        "description": "Need to reply to three classmates on yellowdig regarding concept presenatation.",
+        "status": "not completed"
+    }
+]

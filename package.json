@@ -1,0 +1,23 @@
+{
+  "name": "task_manager",
+  "version": "1.0.0",
+  "description": "A simple task manager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgwarren/simpleTaskManager.git"
+  },
+  "author": "Tiffany Warren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgwarren/simpleTaskManager/issues"
+  },
+  "homepage": "https://github.com/tgwarren/simpleTaskManager#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
